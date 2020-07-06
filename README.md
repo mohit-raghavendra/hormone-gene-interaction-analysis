@@ -2,7 +2,7 @@
 
 ## Setup:
 
-Download the GTEx_Analysis_2016-01-15_v7_RNASeQCv1.1.8_gene_tpm.gct dataset (the version 7) from the GTEx portal (https://www.gtexportal.org/home/) and save it in the project directory.
+Download the GTEx_Analysis_2016-01-15_v7_RNASeQCv1.1.8_gene_tpm.gct dataset (the version 7) from the GTEx portal (https://www.gtexportal.org/home/) and save it in root/gene-coexpression-network directory.
 
 ## Dependencies:
 
@@ -15,6 +15,8 @@ scipy
 statsmodels  
 
 ## Notebooks for obtaining the cardinality vertex cover of the gene expression network.
+
+Navigate to the gene-coexpression-network/ directory
 
 #### conflict_graph_vertex_cover.ipynb
 
