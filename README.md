@@ -6,13 +6,13 @@ Download the GTEx_Analysis_2016-01-15_v7_RNASeQCv1.1.8_gene_tpm.gct dataset (the
 
 ## Dependencies:
 
-Python 3.x
-Numpy
-pandas
-networkx
-pickle
-scipy
-statsmodels
+Python 3.x  
+Numpy  
+pandas  
+networkx  
+pickle  
+scipy  
+statsmodels  
 
 ## Notebooks for obtaining the cardinality vertex cover of the gene expression network.
 
