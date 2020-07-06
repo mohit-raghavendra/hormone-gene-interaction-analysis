@@ -11,15 +11,15 @@ tensorflow
 
 Navigate to the hormone-gene-classification/ directory
 
-#### SMOTE_embedding_space.ipynb
+##### SMOTE_embedding_space.ipynb
 
 Generates source-target gene embeddings using SMOTE.
 
-#### visualise_embeddings.ipynb
+##### visualise_embeddings.ipynb
 
 Tensorboard tool to visualise and validate the generated embeddings
 
-#### Classifier/hormone_gene_svm_v1.py
+##### Classifier/hormone_gene_svm_v1.py
 
 SVM classifier to classify positive and negative association of genes with hormones 
 
